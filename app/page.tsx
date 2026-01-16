@@ -15,7 +15,7 @@ import {
   Target,
 } from "lucide-react";
 
-const APP_URL = "https://app.phare.dev";
+const APP_URL = "https://app.phare.tech";
 
 function PhareIcon({ className }: { className?: string }) {
   return (
